@@ -1,1 +1,1 @@
-alert(require('./bear.js'));
+alert(require('./bear.js') + 'it still works');

@@ -1,1 +1,1 @@
-module.export = "growl!";
+module.export = 'growl!';
