@@ -1,6 +1,5 @@
 var $ = require('jquery')
 
-require('css!./bear.css')
-console.log(css)
+require('style!css!./bear.css')
 
 module.exports = $('<div/>').html('grizzly growl!')
