@@ -7,3 +7,4 @@ $  npm install webpack --save-dev
 $  npm start
 $  open index.html
 $  npm install webpack-dev-server --save-dev
+$  npm install jquery --save-dev
