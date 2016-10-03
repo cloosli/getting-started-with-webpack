@@ -8,3 +8,4 @@ $  npm start
 $  open index.html
 $  npm install webpack-dev-server --save-dev
 $  npm install jquery --save-dev
+$  npm install css-loader --save-dev
